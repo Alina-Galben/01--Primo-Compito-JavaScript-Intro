@@ -1,0 +1,37 @@
+Compito inizio settimana 
+
+1.	Cos'è un algoritmo?
+
+Pensa a un algoritmo come alla sequenza di istruzioni che segui ogni mattina per prepararti. Ad esempio:
+1)	Passo 1: Svegliati.
+2)	Passo 2: Lava il viso.
+3)	Passo 3: Prepara e bevi il caffè.
+4)	Passo 4: Vestiti.
+Questi passaggi sono un algoritmo che ti porta dal letto a essere pronto per iniziare la giornata. In informatica, un algoritmo funziona nello stesso modo: è una lista di istruzioni che dice al computer cosa fare, passo per passo, per risolvere un problema o eseguire una funzione specifica.
+È una sequenza ordinata di passaggi necessari per svolgere una specifica attività o risolvere un problema. Possiamo paragonarlo anche alle istruzioni di montaggio di un mobile: ogni passaggio indica cosa fare e in che ordine, partendo dai componenti principali fino ad arrivare al risultato finale, ovvero il mobile montato. Gli algoritmi funzionano nello stesso modo: sono le istruzioni che un computer segue per arrivare a un risultato preciso, come ad esempio ordinare una lista di nomi o calcolare una somma.
+Ad esempio, pensa a un algoritmo per ordinare una lista di numeri dal più piccolo al più grande. Questo algoritmo dirà al computer:
+	Confronta due numeri alla volta.
+	Scambia di posto i numeri se non sono in ordine.
+	Ripeti il processo fino a quando tutti i numeri sono in ordine.
+Questo è il concetto base di un algoritmo in informatica: una procedura definita e ripetibile che porta a un risultato specifico. Un algoritmo è una sequenza di passi specifici per completare un’azione. Gli algoritmi servono per risolvere problemi o eseguire compiti precisi, come ordinare una lista di nomi, fare calcoli complessi o filtrare dati. Ogni passaggio è chiaro e necessario per arrivare al risultato finale in modo efficiente e corretto.
+
+2.	Cos'è una variabile?
+
+Una variabile è un contenitore con un'etichetta, che permette di conservare un'informazione per poi riutilizzarla. 
+In seguito trovi una serie di esempi per comprendere meglio il concetto.
+Immagina di avere una lavagnetta in cucina dove scrivi il numero di uova che hai a disposizione. Questa lavagnetta è una variabile. Oggi, se hai 6 uova, scrivi "6" sulla lavagnetta. Quando le usi e ti restano solo 3 uova, cancelli il numero precedente e scrivi "3". La lavagnetta cambia, ma serve sempre a conservare e visualizzare il numero di uova attuale. Allo stesso modo, una variabile in un programma memorizza un valore che può cambiare nel tempo, come un numero, un nome, o qualsiasi informazione che vuoi tenere a portata di mano.
+Oppure immagina di avere un raccoglitore con delle schede su cui annoti informazioni importanti, come il numero di clienti o il totale delle vendite. Ogni scheda rappresenta una variabile, e ogni variabile ha un nome (come “Clienti” o “Vendite Totali”) per ritrovarla facilmente. La variabile può poi essere aggiornata, come quando aggiungi nuovi clienti o aumentano le vendite, permettendoti di gestire le informazioni in modo organizzato.
+Quindi una variabile è un "contenitore" che può conservare un valore specifico e permette al programma di usarlo o modificarlo quando serve. Possiamo paragonare anche una variabile a un’etichetta su una bottiglia. L’etichetta dice "Acqua" e dentro la bottiglia c'è effettivamente acqua. Tuttavia, puoi versare l'acqua e riempire la bottiglia con un altro liquido, come "Succo di mela", mantenendo la stessa etichetta. La variabile ha una funzione simile: è un nome che rappresenta un valore, e questo valore può cambiare in base alle necessità del programma.
+Ad esempio:
+Variabile "Nome" può contenere il valore "Mario". Se la persona cambia, il valore può diventare "Luca".
+Variabile "Età" potrebbe iniziare con il valore "29". Quando l'età cambia, questa variabile viene aggiornata, ad esempio a "30".
+Le variabili sono essenziali in programmazione perché permettono di conservare e gestire i dati in modo dinamico.
+
+3.	Undefined e null sono la stessa cosa?
+
+No, "undefined" e "null" non sono la stessa cosa, anche se possono sembrare simili. 
+No, non sono la stessa cosa. Facciamo un esempio semplice:
+Undefined: Immagina che in cucina tu abbia un contenitore senza etichetta e senza niente dentro. Non sai cosa dovrebbe contenere e quindi non è stato ancora usato per niente. In programmazione, "undefined" è simile a questo: è qualcosa che non ha ancora un valore definito o non è stato assegnato un valore o non è disponibile, come se avessimo una cartella vuota senza un'etichetta.
+Null: Ora pensa a un altro contenitore, questa volta con un’etichetta chiara ("Sale") ma che è volutamente vuoto perché hai finito il sale e sai che per ora è così. "Null" rappresenta questa situazione: sai che il contenitore è per il sale, ma al momento è vuoto di proposito. Quindi "Null", indica l'assenza di valore intenzionale; è come avere una cartella con un’etichetta ma decidere di lasciarla vuota di proposito. 
+In altre parole, "undefined" è l’assenza di un valore non assegnato, mentre "null" è l’assenza di un valore assegnato intenzionalmente.
+
