@@ -20,26 +20,27 @@ body {
     height: auto;
 }
 
-.div-h1 {
-    display: flex;
-    margin: 30px;
-    padding: 10px;
-    text-align: center;
-}
-
 .main-container {
-    display: flex;
-    margin: 20px;
+    display: flexbox;
+    margin: 50px;
     gap: 20px;
 }
 
-.div-card {
-    flex: 1;
+main h1 {
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(50%);
+    text-align: center;
+    z-index: 10;
+    width: 100%;
 }
 
-.div-img {
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    margin-right: 10px;
+.article-container {
+
+}
+
+img {
+    width: 400px;
+    height: 300px;
 }
